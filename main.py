@@ -14,7 +14,7 @@ print(" ✧.* OC:", (choice(name)))
 print(" ")
 
 # ACTIVITY PROMPTS!!! 
-activity = ["Listening to music", "Reading a book", "Snuggling/Cuddling", "Singing/humming", "Dancing", "Napping", "Asleep", "Sewing", "Drawing", "Cooking", "Driving", "Looking out the Window", "Baking", "Playing an instrument", "With their weapon", "Trying on new clothes", "Crying", "Smiling", "Laughing", "Angry", "Sorry", "Apologetic", "In Love", "Hatred for (something)", "With an animal" "As an animal", "Outfit swap", ]
+activity = ["Listening to music", "Reading a book", "Snuggling/Cuddling", "Singing/humming", "Dancing", "Napping", "Asleep", "Sewing", "Drawing", "Cooking", "Driving", "Looking out the Window", "Baking", "Playing an instrument", "With their weapon", "Trying on new clothes", "Crying", "Smiling", "Laughing", "Angry", "Sorry", "Apologetic", "In Love", "Hatred for (something)", "With an animal", "As an animal", "Outfit swap", ]
 
 print(" ✧.* Prompt:", (choice(activity)))
 print(" ")
